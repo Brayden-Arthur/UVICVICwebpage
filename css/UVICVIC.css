@@ -1,0 +1,26 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+}
+
+body {
+  background-color: inherit;
+  font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+}
+
+.navbar {
+  min-height: 0px;
+  height: auto !important;
+}
+
+hr {
+  height: 1px;
+  margin: 0px !important;
+}
+
+.hd-button {
+  padding: 0px 0px 0px;
+  display: inline;
+}
